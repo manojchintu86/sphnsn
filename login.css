@@ -1,0 +1,33 @@
+.head{
+	font-weight:bold; 
+	color:black;
+	background-color:#87CEFA;
+	border-radius:17px; 
+  	padding: 10px;
+  	background-repeat: no-repeat;
+  	background-size: auto;
+  	border:1px solid white;
+	display:block;
+}
+.button{
+	float: left;
+	margin-right:15px;
+}
+.logo{
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 50px
+	height 120px;
+	width:120px;
+	margin:10px 5px;
+}
+
+
+.rad{
+float:left;
+padding-right:10px;
+}
+
+.about{
+outline:none;
+}
